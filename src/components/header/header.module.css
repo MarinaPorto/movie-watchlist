@@ -1,0 +1,17 @@
+.header__logo {
+  font-size: 30px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 40px;
+}
+
+.header__logo span {
+  font-size: 46px;
+}
+
+.logo__img {
+  width: 80px;
+  margin-right: 20px;
+}
